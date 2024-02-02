@@ -1,6 +1,6 @@
 import gradio as gr
 import openai
-openai.api_key='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'
+openai.api_key=''
 
 message_history=[]
 
